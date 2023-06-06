@@ -1,6 +1,13 @@
-### Hello there, I'm BustDot 👋
-- I love open source. ❤️
+<div align="center">
+  <h1>Hello there, I'm BustDot 👋</h1>
+  <div>I love open source. ❤️</div>
+  <div>I major in CS. ⚡</div>
+  <div>I'm interested in Python, Go, C++ and distributed systems. 👀</div>
 
-![skills](https://skillicons.dev/icons?i=py,go,java,react,docker,cpp,html,css,git,linux,mysql,vscode,vue,tailwind,ps)
+![skills](https://skillicons.dev/icons?i=py,go,java,react,docker,cpp,html,css,git,linux)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BustDot&hide=vue,typescript,html)](https://github.com/BustDot/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BustDot&theme=ayu_mirage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BustDot&theme=ayu_mirage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BustDot&theme=ayu_mirage)
+ 
+</div>
