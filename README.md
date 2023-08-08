@@ -8,6 +8,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BustDot&theme=ayu_mirage)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BustDot&theme=ayu_mirage)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BustDot&theme=ayu_mirage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BustDot&theme=ayu_mirage&exclude=HTML)
  
 </div>
