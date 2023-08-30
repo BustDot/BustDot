@@ -2,7 +2,7 @@
   <h1>Hello there, I'm BustDot 👋</h1>
   <div>I love open source. ❤️</div>
   <div>I’m currently majoring in CS. ⚡</div>
-  <div>I'm interested in blockchain and distributed systems. 👀</div>
+  <div>I'm interested in database and distributed systems. 👀</div>
 
 ![skills](https://skillicons.dev/icons?i=py,go,java,react,docker,cpp,html,css,git,linux)
 
