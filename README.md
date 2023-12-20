@@ -4,7 +4,7 @@
   <div>I’m currently majoring in CS. ⚡</div>
   <div>I'm interested in database and distributed systems. 👀</div>
 
-![skills](https://skillicons.dev/icons?i=py,go,java,react,docker,cpp,html,css,git,linux)
+![skills](https://skillicons.dev/icons?i=py,go,cpp,react,docker,html,css,git,linux)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BustDot&theme=ayu_mirage)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BustDot&theme=ayu_mirage)
